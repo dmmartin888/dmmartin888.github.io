@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+- name: Classifier
+  link: /classifier.html
+- name: Apis Facts
+  link: /apis.html
+- name: Bombus Facts
+  link: /bombus.html
+- name: Beekeeping    
+  link: /beekeeping.html
+- name: Pollinator Gardens
+  link: /garden.html
+- name: How It Works
+  link: /ml_works.html
+- name: About Me
+  link: /about.html
