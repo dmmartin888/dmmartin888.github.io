@@ -49,17 +49,21 @@ function preview_2(obj)
       let result = model.predict(inputTensor);
       let prob = result.arraySync()[0];
       if (prob <= 0.5) {
+           var txt = "apis bee (honey bee)";
+           var apis = txt.link("/apis.html");
            prob = 1 - prob;
            prob = prob*100;
            prob = prob.toFixed(2);
-           document.getElementById("bee").innerHTML = "We believe this is an apis bee with " + prob + "% confidence.";
+           document.getElementById("bee").innerHTML = "We believe this is an " + apis + " with " + prob + "% confidence.";
       }
       else {
+	   var txt = "bombus bee (bumblebee)";
+           var bombus = txt.link("/bombus.html");
            prob = prob*100;
            prob = prob.toFixed(2);
            if (prob == 100.00) {
                prob = 95.52; }
-           document.getElementById("bee").innerHTML = "We believe this is a bombus bee with " + prob + "% confidence."; 
+           document.getElementById("bee").innerHTML = "We believe this is a " + bombus + " with " + prob + "% confidence."; 
       }
   });
 };
