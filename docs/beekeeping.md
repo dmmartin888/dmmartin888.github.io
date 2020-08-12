@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beekeeping Basics
+description: "Beekeeping Basics"
 ---
 
 <h1>Beekeeping Basics</h1>

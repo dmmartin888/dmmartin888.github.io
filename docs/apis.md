@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Honey Bee Facts
+description: "Honey Bee Facts"
 ---
 
 <h1>Honey Bee Facts</h1>

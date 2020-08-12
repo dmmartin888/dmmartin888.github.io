@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bumblebee Facts
+description: "Bumblebee Facts"
 ---
 
 <h1>Bumblebee Facts</h1>

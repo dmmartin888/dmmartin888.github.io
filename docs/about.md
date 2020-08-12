@@ -1,8 +1,7 @@
 ---
 layout: default
-title: About
+description: "About Me!"
 ---
 
-#About page
 <h1>About Me</h1>
-This page tells you a little bit about me.
+This page tells you a little bit about me, the creator of Waggle Dance.
