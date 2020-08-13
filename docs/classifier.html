@@ -3,6 +3,8 @@ layout: default
 description: "The heart and soul of Waggle Dance: the Bee Classifier"
 ---
 
+<strong>This is Waggle Dance's bee classifier. Just click the button to pick out the picture you want to identify, and the photo should appear below the button. To identify your picture, just click the "Predict" button and the result should appear below the picture!</strong> 
+<br><br>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"></script>
 
 <script>
@@ -78,6 +80,9 @@ const model = load();
 		<img id="imagenFondo" style="height: 300px;"><br>
 		<p id="bee"></p><br>
 		<button onclick="predict(model)">Predict</button>
+		<br><br>
+		<strong>Want to know how the classifier works? Visit <a href="/ml_works.html">our page on machine learning</a> to learn!</strong> 
 		<br><br><br><br><br><br>
+
 
 

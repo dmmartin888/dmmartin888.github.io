@@ -10,7 +10,9 @@
   link: /beekeeping.html
 - name: Pollinator Gardens
   link: /garden.html
-- name: How It Works
+- name: Ways to Help Bees
+  link: /other_ways.html
+- name: About Machine Learning
   link: /ml_works.html
 - name: About Me
   link: /about.html
