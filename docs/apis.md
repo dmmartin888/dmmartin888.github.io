@@ -6,7 +6,8 @@ description: "Honey Bee Facts"
 <h1>Honey Bee Facts</h1>
 
 <img src="https://www.rd.com/wp-content/uploads/2019/07/shutterstock_566006227-1536x864.jpg" alt="Honey bee resting on a yellow flower" style="height: 300px;"><br>
-From Reader's Digest; A honey bee resting on a yellow flower
+From Reader's Digest; A honey bee resting on a yellow flower.
+
 **The most common honey bee is the Western Honey bee, or the *apis mellifera*. These bees are found on every continent except Antarctica. They stay away from colder climates, unlike bumblebees.**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Apis_distribution_map.svg" alt="Honey bee distribution map" style="height:200px;"><br>
