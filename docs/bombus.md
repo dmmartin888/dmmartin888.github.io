@@ -9,6 +9,7 @@ description: "Bumblebee Facts"
 Courtesy of Wikipedia; A bumblebee flying above a flower.
 
 **Unlike the honey bee, it's not easy to pin down one species of bumbleebee that is the most common. There are over 250 different species of bombus all over the globe, though they are not native to Australia, New Zealand, and Tasmania. Recently, the bumblebee has been introduced to the latter two countries. No bumblebees are found in Antarctica either, and all African bumblebees are found north of the Sahara.**
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Bombus_distribution.jpg" alt="A bumblebee distribution map" style="height:200px;"><br>
 Courtesy of Wikipedia; A map where bumblebees are natively found.
 
