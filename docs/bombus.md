@@ -13,7 +13,7 @@ Courtesy of Wikipedia; A bumblebee flying above a flower.
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Bombus_distribution.jpg" alt="A bumblebee distribution map" style="height:200px;"><br>
 Courtesy of Wikipedia; A map where bumblebees are natively found.
 
-**Bumblebees are mostly social creatures, as they live in a hive with a queen, workers, and drones. Here are more helpful hints about the bumblebee:**
+**Bumblebees are mostly social creatures, as they live in a hive with a queen, workers, and drones. Here are more helpful facts about the bumblebee:**
 
 * **Bumblebees have had many names, including humblebee.**
 
@@ -35,7 +35,7 @@ Courtesy of Wikipedia; A map where bumblebees are natively found.
 
 * **Bumblebees produce honey, but not as much as honeybees.**
 
-* **Bumblebees don’t have the iconic beehives like honeybees do. They prefer to live in underground hives.**
+* **Bumblebees don’t have the iconic beehives like honeybees do. They prefer to live in underground nests.**
 
 * **Often, a worker bumblebee will specialize in collecting pollen and nectar from one or two species of flowers.** 
 

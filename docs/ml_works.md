@@ -24,6 +24,8 @@ Examples of solutions to overfitting.
 Courtesy of SQL ServerCentral; A flowchart for the process of machine learning.
 
 **Here is a list of the different resources that I used:**
-* **https://github.com/chetannaik/bee_classifier_using_cnn**
-* **https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.2-using-convnets-with-small-datasets.ipynb**
-* **https://www.tensorflow.org/tutorials/images/classification**
+* **[https://www.tensorflow.org/tutorials/images/classification](https://www.tensorflow.org/tutorials/images/classification)**
+* **[https://www.tensorflow.org/js/tutorials/conversion/import_keras](https://www.tensorflow.org/js/tutorials/conversion/import_keras)**
+* **[https://github.com/chetannaik/bee_classifier_using_cnn](https://github.com/chetannaik/bee_classifier_using_cnn)**
+* **[https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.2-using-convnets-with-small-datasets.ipynb](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.2-using-convnets-with-small-datasets.ipynb)**
+
