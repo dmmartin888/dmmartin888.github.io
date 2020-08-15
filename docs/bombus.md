@@ -3,7 +3,7 @@ layout: default
 description: "Bumblebee Facts"
 ---
 
-<h1>Bumblebee Facts</h1>
+<h1>Bumblebee (Bombus) Facts</h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AD2009Aug08_Bombus_pratorum.jpg" alt="A bumblebee above a flower" style="height:400px;"><br>
 Courtesy of Wikipedia; A bumblebee flying above a flower.
@@ -35,7 +35,7 @@ Courtesy of Wikipedia; A map where bumblebees are natively found.
 
 * **Bumblebees produce honey, but not as much as honeybees.**
 
-* **Bumblebees don’t have the iconic beehives like honeybees do. They prefer to live underground.**
+* **Bumblebees don’t have the iconic beehives like honeybees do. They prefer to live in underground hives.**
 
 * **Often, a worker bumblebee will specialize in collecting pollen and nectar from one or two species of flowers.** 
 

@@ -3,7 +3,7 @@ layout: default
 description: "Honey Bee Facts"
 ---
 
-<h1>Honey Bee Facts</h1>
+<h1>Honey Bee (Apis) Facts</h1>
 
 <img src="https://www.rd.com/wp-content/uploads/2019/07/shutterstock_566006227-1536x864.jpg" alt="Honey bee resting on a yellow flower" style="height: 300px;"><br>
 From Reader's Digest; A honey bee resting on a yellow flower.
@@ -27,7 +27,7 @@ Courtesy of Wikipedia; A map where honey bees are natively found.
 
 * **A queen Western honey bee can live for 2-3 years. A worker will live for less than half a year.**
 
-* **Honey has different flavors and colors depending on the region it was made in and kinds of flowers it was made for.**
+* **Honey has different flavors and colors depending on the region it was made in and the kinds of flowers it was made from.**
 
 * **Honey was found in King Tut's tomb. It was over 2000 years old and still edible!** 
 

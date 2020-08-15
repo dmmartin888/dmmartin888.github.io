@@ -8,7 +8,7 @@ description: "Pollinator Gardens"
 <img src="https://ww1.prweb.com/prfiles/2019/02/26/16129660/IeFkfVlQ.jpeg" alt="Pollinator garden" style="height: 400px;"><br>
 From PRWeb; A good example of a pollinator garden.
 
-**While having any kind of garden is useful for bees, there are some things you can do to optimize the amount of pollinators that visit your garden. Tips vary by location, such as what to plant and what kind of bee to fixate on, but this guide will help narrow down a few things that you can do to help out pollinators:**
+**While having any kind of garden is useful for bees, there are some things you can do to optimize the amount of pollinators that visit your garden. Tips vary by location, such as what to plant and what kind of bee you want to attract, but this guide will help narrow down a few things that you can do to help out pollinators:**
 
 * **Cut down on pesticides. Use the least toxic stuff you can find, or use plants that can naturally trap pests. Bees and most other pollinators are not active during the night, so use any pesticides at night.**
 
@@ -16,7 +16,7 @@ From PRWeb; A good example of a pollinator garden.
 
 * **Choose flowers that will bloom as close to year-round as you can get. The longer your flowers stay blooming, the more pollen the bees will be able to get from them before winter.** 
 
-* **Different kinds of bees prefer different kinds of flowers. If you want to attract one kind of bee more than the others, make sure to research what kind of environment that bee likes.** 
+* **Different kinds of bees prefer different kinds of flowers. If you want to attract one kind of bee more than the others, make sure to research what kinds of flowers that bee likes.** 
 
 * **Try to go for more natural flowers. The more hybridized a flower is, the less pollen it has for bees.**
 
